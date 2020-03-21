@@ -39,5 +39,11 @@
     <ClCompile Include="p47881.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="소마마지막문제.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="p43110.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
